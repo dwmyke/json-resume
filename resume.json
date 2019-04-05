@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Mikel-Jon (Mike) West",
+    "label": "Video Editor, Visual Designer, Developer, Writer, Director",
+    "picture": "https://dwmyke.github.io/json-resume/profile.png",
+    "email": "mikewest@workmail.com",
+    "phone": "(503) 862-6964",
+    "website": "http://mikewest.pro",
+    "summary": "Mike recently relocated to Portland, Oregon from Albuquerque, New Mexico, where he has earned a BFA in Media Arts from the University of New Mexico and received on the job training in Technical Film Crew working in various capacities on major motion pictures and independent film production. Before starting Mega Ultra Studios, he worked for Network Broadcast affiliates KOB-TV and KWBQ as a Master Control Operator and Promotions Editor. Mike combines a technical aptitude in hardware and software with creativity and art in storytelling, graphic design, and marketing. Mike has written, directed, and editing award-winning short and feature length films and creates music videos and promotional material for performing artists and small businesses.” conversation!",
+    "location": {
+      "postalCode": "97202",
+      "city": "Portland",
+      "countryCode": "US",
+      "region": "Pacific Northwest"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "neutralthoughts",
+        "url": ""
+      },
+      {
+        "network": "SoundCloud",
+        "username": "dandymusicnl",
+        "url": "https://soundcloud.com/dandymusicnl"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Pied Piper",
+      "position": "CEO/President",
+      "website": "http://piedpiper.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "website": "http://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
