@@ -5,8 +5,8 @@
     "picture": "https://dwmyke.github.io/json-resume/profile.png",
     "email": "mikewest@workmail.com",
     "phone": "(503) 862-6964",
-    "website": "http://mikewest.pro",
-    "summary": "Mike recently relocated to Portland, Oregon from Albuquerque, New Mexico, where he has earned a BFA in Media Arts from the University of New Mexico and received on the job training in Technical Film Crew working in various capacities on major motion pictures and independent film production. Before starting Mega Ultra Studios, he worked for Network Broadcast affiliates KOB-TV and KWBQ as a Master Control Operator and Promotions Editor. Mike combines a technical aptitude in hardware and software with creativity and art in storytelling, graphic design, and marketing. Mike has written, directed, and editing award-winning short and feature length films and creates music videos and promotional material for performing artists and small businesses.” conversation!",
+    "website": "https://mikewest.pro",
+    "summary": "Mike recently relocated to Portland, Oregon from Albuquerque, New Mexico, where he has earned a BFA in Media Arts from the University of New Mexico and received on the job training in Technical Film Crew working in various capacities on major motion pictures and independent film production. Before starting Mega Ultra Studios, he worked for Network Broadcast affiliates KOB-TV and KWBQ as a Master Control Operator and Promotions Editor. Mike combines a technical aptitude in hardware and software with creativity and art in storytelling, graphic design, and marketing. Mike has written, directed, and editing award-winning short and feature length films and creates music videos and promotional material for performing artists and small businesses.",
     "location": {
       "postalCode": "97202",
       "city": "Portland",
@@ -15,29 +15,34 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "Facebook",
+        "username": "thatmikewest",
+        "url": "https://www.facebook.com/thatmikewest"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "LinkedIn",
+        "username": "dwmyke",
+        "url": "https://www.linkedin.com/in/dwmyke"
+      },
+      {
+        "network": "IMDB",
+        "username": "nm1761143",
+        "url": "https://www.imdb.com/name/nm1761143/?ref_=nv_sr_2?ref_=nv_sr_2"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Mega Ultra Studios",
+      "position": "Founder",
+      "website": "https://megaultra.space",
+      "startDate": "2012-02-01",
+      "endDate": "present",
+      "summary": "Mega Ultra Studios produces and distributes award-winning short and feature length films, music videos, and promotional packages for performing artists and small businesses.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Writer, Director, and Editor for award-winning short films and feature films.",
+        "Produces and distributes music videos and promotional videos for performing artists and small businesses.",
+        "Designs motion graphics, titles, banners, posters, disk inserts, and assets for social media and streaming services such as Amazon Prime Direct, Roku, and YouTube."
       ]
     }
   ],
@@ -56,15 +61,14 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "University of New Mexico",
+      "area": "Media Arts",
+      "studyType": "Bachelor of Fine Arts",
+      "startDate": "",
+      "endDate": "2008-09-01",
+      "gpa": "",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        ""
       ]
     }
   ],
@@ -109,6 +113,14 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic communication skills"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic communication skills"
     }
   ],
   "interests": [
